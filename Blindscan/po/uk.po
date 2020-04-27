@@ -60,7 +60,7 @@ msgid "AUTOMATICALLY start service searching, press green to change."
 msgstr "АВТОМАТИЧНИЙ старт пошуку каналів, натисніть зелену кнопку для зміни."
 
 msgid "Accuracy (higher is better)"
-msgstr "Точність (чим більше, тим краще)"
+msgstr "Точність (вище, тим краще)"
 
 msgid "Blind scan"
 msgstr "Сліпий пошук"
@@ -76,9 +76,6 @@ msgstr "Сліпий пошук"
 
 msgid "Blindscan is not supported in "
 msgstr "Сліпий пошук не підтримується в "
-
-msgid "Change"
-msgstr "Змінити"
 
 msgid "Clear before scan"
 msgstr "Очистити перед скануванням"
@@ -202,7 +199,7 @@ msgid "Nothing to scan! Press Exit!"
 msgstr "Нічого сканувати! Натисніть Вихід!"
 
 msgid "Only free scan"
-msgstr "Пошук лише некодованих каналів"
+msgstr "Пошук лише некодованих каналі"
 
 msgid "Only scan unknown transponders"
 msgstr "Пошук лише невідомих транспондерів"
@@ -232,7 +229,7 @@ msgid "Scan Step in MHz(TBS5925)"
 msgstr "Крок сканування в МГц(TBS5925)"
 
 msgid "Scan satellites for new transponders"
-msgstr "Сканування нових транспондерів супутника"
+msgstr "Сканування супутників для нових транспондерів"
 
 msgid "Scan start frequency"
 msgstr "Початкова частота сканування"
@@ -300,7 +297,7 @@ msgid "Tuner"
 msgstr "Тюнер"
 
 msgid "Use Sundtek full hardware blind scan!"
-msgstr "Використовуйте Sundtek для повного сліпого сканування!"
+msgstr ""
 
 msgid "Vertical"
 msgstr "Вертикальна"
